@@ -2,6 +2,7 @@ A simple TCP/IP IM in Java socket programming. The project contains register and
 Then there is basic sharing of messages amongst two clients who are online.
 
 **HOW TO RUN**
+
 The idea used is intellij.
 1. Import database.
 2. Run the main Class which will open the server window.
